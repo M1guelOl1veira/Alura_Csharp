@@ -5,3 +5,4 @@ C:\Users\LISCOMP02\source\repos\AprendendoCSharp\7-Condicional\bin\Debug\7-Condi
 C:\Users\LISCOMP02\source\repos\AprendendoCSharp\7-Condicional\bin\Debug\7-Condicional.pdb
 C:\Users\LISCOMP02\source\repos\AprendendoCSharp\7-Condicional\obj\Debug\7-Condicional.exe
 C:\Users\LISCOMP02\source\repos\AprendendoCSharp\7-Condicional\obj\Debug\7-Condicional.pdb
+C:\Users\LISCOMP02\source\repos\AprendendoCSharp\7-Condicional\obj\Debug\7-Condicional.csproj.AssemblyReference.cache

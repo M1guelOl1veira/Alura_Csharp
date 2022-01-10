@@ -1,0 +1,7 @@
+C:\Users\LISCOMP02\source\repos\AprendendoCSharp\F11-LacoDeRepeticaoWhile\bin\Debug\F11-LacoDeRepeticaoWhile.exe.config
+C:\Users\LISCOMP02\source\repos\AprendendoCSharp\F11-LacoDeRepeticaoWhile\bin\Debug\F11-LacoDeRepeticaoWhile.exe
+C:\Users\LISCOMP02\source\repos\AprendendoCSharp\F11-LacoDeRepeticaoWhile\bin\Debug\F11-LacoDeRepeticaoWhile.pdb
+C:\Users\LISCOMP02\source\repos\AprendendoCSharp\F11-LacoDeRepeticaoWhile\obj\Debug\F11-LacoDeRepeticaoWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\LISCOMP02\source\repos\AprendendoCSharp\F11-LacoDeRepeticaoWhile\obj\Debug\F11-LacoDeRepeticaoWhile.csproj.CoreCompileInputs.cache
+C:\Users\LISCOMP02\source\repos\AprendendoCSharp\F11-LacoDeRepeticaoWhile\obj\Debug\F11-LacoDeRepeticaoWhile.exe
+C:\Users\LISCOMP02\source\repos\AprendendoCSharp\F11-LacoDeRepeticaoWhile\obj\Debug\F11-LacoDeRepeticaoWhile.pdb
