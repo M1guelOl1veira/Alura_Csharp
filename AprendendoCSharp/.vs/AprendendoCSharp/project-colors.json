@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a8f18ab6-73d7-4797-8bcc-48d2ae3dd347": {
+      "ProjectGuid": "a8f18ab6-73d7-4797-8bcc-48d2ae3dd347",
+      "DisplayName": "1-PrimeiroProjeto",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "c3ea36bd-d334-44d9-8ad3-58e98b1ab90c": {
+      "ProjectGuid": "c3ea36bd-d334-44d9-8ad3-58e98b1ab90c",
+      "DisplayName": "2-CriandoVariaveis",
+      "ColorIndex": 1
+    },
+    "cbad54dc-71b3-49c5-9476-a93a35e60770": {
+      "ProjectGuid": "cbad54dc-71b3-49c5-9476-a93a35e60770",
+      "DisplayName": "7-Condicional",
+      "ColorIndex": 2
+    },
+    "dc8cad78-ae00-46e9-a12d-50da7e745b58": {
+      "ProjectGuid": "dc8cad78-ae00-46e9-a12d-50da7e745b58",
+      "DisplayName": "6-AtribuiçoesdeVariaveis",
+      "ColorIndex": 3
+    },
+    "a84bffcf-ba49-42cb-af23-fd3364885f99": {
+      "ProjectGuid": "a84bffcf-ba49-42cb-af23-fd3364885f99",
+      "DisplayName": "5-CaracteresETextos",
+      "ColorIndex": 4
+    },
+    "19081643-82d4-49fd-b03a-b6da9c1b57f6": {
+      "ProjectGuid": "19081643-82d4-49fd-b03a-b6da9c1b57f6",
+      "DisplayName": "4-ConversoeseOutrosTiposNumericos",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

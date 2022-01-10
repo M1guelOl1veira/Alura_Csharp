@@ -1,0 +1,7 @@
+C:\Users\LISCOMP02\source\repos\AprendendoCSharp\6-AtribuiçoesdeVariaveis\bin\Debug\6-AtribuiçoesdeVariaveis.exe.config
+C:\Users\LISCOMP02\source\repos\AprendendoCSharp\6-AtribuiçoesdeVariaveis\bin\Debug\6-AtribuiçoesdeVariaveis.exe
+C:\Users\LISCOMP02\source\repos\AprendendoCSharp\6-AtribuiçoesdeVariaveis\bin\Debug\6-AtribuiçoesdeVariaveis.pdb
+C:\Users\LISCOMP02\source\repos\AprendendoCSharp\6-AtribuiçoesdeVariaveis\obj\Debug\6-AtribuiçoesdeVariaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\LISCOMP02\source\repos\AprendendoCSharp\6-AtribuiçoesdeVariaveis\obj\Debug\6-AtribuiçoesdeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\LISCOMP02\source\repos\AprendendoCSharp\6-AtribuiçoesdeVariaveis\obj\Debug\6-AtribuiçoesdeVariaveis.exe
+C:\Users\LISCOMP02\source\repos\AprendendoCSharp\6-AtribuiçoesdeVariaveis\obj\Debug\6-AtribuiçoesdeVariaveis.pdb
