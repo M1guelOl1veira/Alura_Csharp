@@ -5,3 +5,10 @@ C:\Users\LISCOMP02\source\repos\AprendendoCSharp\F14-LacoDeRepeticaoFor2\obj\Deb
 C:\Users\LISCOMP02\source\repos\AprendendoCSharp\F14-LacoDeRepeticaoFor2\obj\Debug\F14-LacoDeRepeticaoFor2.csproj.CoreCompileInputs.cache
 C:\Users\LISCOMP02\source\repos\AprendendoCSharp\F14-LacoDeRepeticaoFor2\obj\Debug\F14-LacoDeRepeticaoFor2.exe
 C:\Users\LISCOMP02\source\repos\AprendendoCSharp\F14-LacoDeRepeticaoFor2\obj\Debug\F14-LacoDeRepeticaoFor2.pdb
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F14-LacoDeRepeticaoFor2\bin\Debug\F14-LacoDeRepeticaoFor2.exe.config
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F14-LacoDeRepeticaoFor2\bin\Debug\F14-LacoDeRepeticaoFor2.exe
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F14-LacoDeRepeticaoFor2\bin\Debug\F14-LacoDeRepeticaoFor2.pdb
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F14-LacoDeRepeticaoFor2\obj\Debug\F14-LacoDeRepeticaoFor2.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F14-LacoDeRepeticaoFor2\obj\Debug\F14-LacoDeRepeticaoFor2.csproj.CoreCompileInputs.cache
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F14-LacoDeRepeticaoFor2\obj\Debug\F14-LacoDeRepeticaoFor2.exe
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F14-LacoDeRepeticaoFor2\obj\Debug\F14-LacoDeRepeticaoFor2.pdb

@@ -1,0 +1,7 @@
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F16-Desafio_Fatorial\bin\Debug\F16-Desafio_Fatorial.exe.config
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F16-Desafio_Fatorial\bin\Debug\F16-Desafio_Fatorial.exe
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F16-Desafio_Fatorial\bin\Debug\F16-Desafio_Fatorial.pdb
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F16-Desafio_Fatorial\obj\Debug\F16-Desafio_Fatorial.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F16-Desafio_Fatorial\obj\Debug\F16-Desafio_Fatorial.csproj.CoreCompileInputs.cache
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F16-Desafio_Fatorial\obj\Debug\F16-Desafio_Fatorial.exe
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F16-Desafio_Fatorial\obj\Debug\F16-Desafio_Fatorial.pdb

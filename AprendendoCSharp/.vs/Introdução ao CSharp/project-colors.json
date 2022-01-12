@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "05f85f8a-8833-4964-8de4-58827a65dc2d": {
+      "ProjectGuid": "05f85f8a-8833-4964-8de4-58827a65dc2d",
+      "DisplayName": "F14-LacoDeRepeticaoFor2",
+      "ColorIndex": 0
+    },
+    "3b99ce3f-b67d-4b1d-bbf3-ad6785ce9084": {
+      "ProjectGuid": "3b99ce3f-b67d-4b1d-bbf3-ad6785ce9084",
+      "DisplayName": "F15-Desafio_Multiplo_de_3",
+      "ColorIndex": 1
+    },
+    "952fa6c9-fa1f-4e7b-8341-f7e1f939b7b1": {
+      "ProjectGuid": "952fa6c9-fa1f-4e7b-8341-f7e1f939b7b1",
+      "DisplayName": "F16-Desafio_Fatorial",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

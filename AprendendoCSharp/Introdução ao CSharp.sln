@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F13-LacoDeRepeticaoFor", "F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F14-LacoDeRepeticaoFor2", "F14-LacoDeRepeticaoFor2\F14-LacoDeRepeticaoFor2.csproj", "{05F85F8A-8833-4964-8DE4-58827A65DC2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F15-Desafio_Multiplo_de_3", "F15-Desafio_Multiplo_de_3\F15-Desafio_Multiplo_de_3.csproj", "{3B99CE3F-B67D-4B1D-BBF3-AD6785CE9084}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F16-Desafio_Fatorial", "F16-Desafio_Fatorial\F16-Desafio_Fatorial.csproj", "{952FA6C9-FA1F-4E7B-8341-F7E1F939B7B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{05F85F8A-8833-4964-8DE4-58827A65DC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05F85F8A-8833-4964-8DE4-58827A65DC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05F85F8A-8833-4964-8DE4-58827A65DC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B99CE3F-B67D-4B1D-BBF3-AD6785CE9084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B99CE3F-B67D-4B1D-BBF3-AD6785CE9084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B99CE3F-B67D-4B1D-BBF3-AD6785CE9084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B99CE3F-B67D-4B1D-BBF3-AD6785CE9084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{952FA6C9-FA1F-4E7B-8341-F7E1F939B7B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952FA6C9-FA1F-4E7B-8341-F7E1F939B7B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952FA6C9-FA1F-4E7B-8341-F7E1F939B7B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952FA6C9-FA1F-4E7B-8341-F7E1F939B7B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

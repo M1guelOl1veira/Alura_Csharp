@@ -1,0 +1,8 @@
+C:\Workspace\Formação C# e orientação a objetos\ByteBank\2-ByteBank\bin\Debug\2-ByteBank.exe.config
+C:\Workspace\Formação C# e orientação a objetos\ByteBank\2-ByteBank\bin\Debug\2-ByteBank.exe
+C:\Workspace\Formação C# e orientação a objetos\ByteBank\2-ByteBank\bin\Debug\2-ByteBank.pdb
+C:\Workspace\Formação C# e orientação a objetos\ByteBank\2-ByteBank\obj\Debug\2-ByteBank.csproj.AssemblyReference.cache
+C:\Workspace\Formação C# e orientação a objetos\ByteBank\2-ByteBank\obj\Debug\2-ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\Formação C# e orientação a objetos\ByteBank\2-ByteBank\obj\Debug\2-ByteBank.csproj.CoreCompileInputs.cache
+C:\Workspace\Formação C# e orientação a objetos\ByteBank\2-ByteBank\obj\Debug\2-ByteBank.exe
+C:\Workspace\Formação C# e orientação a objetos\ByteBank\2-ByteBank\obj\Debug\2-ByteBank.pdb

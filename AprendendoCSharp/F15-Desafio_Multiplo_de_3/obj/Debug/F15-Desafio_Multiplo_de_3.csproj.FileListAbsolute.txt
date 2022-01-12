@@ -1,0 +1,8 @@
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F15-Desafio_Multiplo_de_3\bin\Debug\F15-Desafio_Multiplo_de_3.exe.config
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F15-Desafio_Multiplo_de_3\bin\Debug\F15-Desafio_Multiplo_de_3.exe
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F15-Desafio_Multiplo_de_3\bin\Debug\F15-Desafio_Multiplo_de_3.pdb
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F15-Desafio_Multiplo_de_3\obj\Debug\F15-Desafio_Multiplo_de_3.csproj.AssemblyReference.cache
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F15-Desafio_Multiplo_de_3\obj\Debug\F15-Desafio_Multiplo_de_3.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F15-Desafio_Multiplo_de_3\obj\Debug\F15-Desafio_Multiplo_de_3.csproj.CoreCompileInputs.cache
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F15-Desafio_Multiplo_de_3\obj\Debug\F15-Desafio_Multiplo_de_3.exe
+C:\Workspace\Formação C# e orientação a objetos\AprendendoCSharp\F15-Desafio_Multiplo_de_3\obj\Debug\F15-Desafio_Multiplo_de_3.pdb
