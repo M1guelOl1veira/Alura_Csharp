@@ -1,0 +1,7 @@
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\04-ByteBank - Referenciando classe dentro de outra\bin\Debug\04-ByteBank - Referenciando classe dentro de outra.exe.config
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\04-ByteBank - Referenciando classe dentro de outra\bin\Debug\04-ByteBank - Referenciando classe dentro de outra.exe
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\04-ByteBank - Referenciando classe dentro de outra\bin\Debug\04-ByteBank - Referenciando classe dentro de outra.pdb
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\04-ByteBank - Referenciando classe dentro de outra\obj\Debug\04-ByteBank - Referenciando classe dentro de outra.csproj.AssemblyReference.cache
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\04-ByteBank - Referenciando classe dentro de outra\obj\Debug\04-ByteBank - Referenciando classe dentro de outra.csproj.CoreCompileInputs.cache
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\04-ByteBank - Referenciando classe dentro de outra\obj\Debug\04-ByteBank - Referenciando classe dentro de outra.exe
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\04-ByteBank - Referenciando classe dentro de outra\obj\Debug\04-ByteBank - Referenciando classe dentro de outra.pdb

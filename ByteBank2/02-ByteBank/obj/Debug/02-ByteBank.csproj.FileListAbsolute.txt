@@ -1,0 +1,7 @@
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\02-ByteBank\bin\Debug\02-ByteBank.exe.config
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\02-ByteBank\bin\Debug\02-ByteBank.exe
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\02-ByteBank\bin\Debug\02-ByteBank.pdb
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\02-ByteBank\obj\Debug\02-ByteBank.csproj.AssemblyReference.cache
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\02-ByteBank\obj\Debug\02-ByteBank.csproj.CoreCompileInputs.cache
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\02-ByteBank\obj\Debug\02-ByteBank.exe
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\02-ByteBank\obj\Debug\02-ByteBank.pdb

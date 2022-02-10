@@ -1,0 +1,7 @@
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\03-Bytebank - Criando métodos\bin\Debug\03-Bytebank - Criando métodos.exe.config
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\03-Bytebank - Criando métodos\bin\Debug\03-Bytebank - Criando métodos.exe
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\03-Bytebank - Criando métodos\bin\Debug\03-Bytebank - Criando métodos.pdb
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\03-Bytebank - Criando métodos\obj\Debug\03-Bytebank - Criando métodos.csproj.AssemblyReference.cache
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\03-Bytebank - Criando métodos\obj\Debug\03-Bytebank - Criando métodos.csproj.CoreCompileInputs.cache
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\03-Bytebank - Criando métodos\obj\Debug\03-Bytebank - Criando métodos.exe
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\03-Bytebank - Criando métodos\obj\Debug\03-Bytebank - Criando métodos.pdb
