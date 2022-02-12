@@ -1,0 +1,6 @@
+C:\Users\LISCOMP02\source\repos\ByteBank3\ByteBank - Herança, Override e Virtual e base\bin\Debug\ByteBank - Herança, Override e Virtual e base.exe.config
+C:\Users\LISCOMP02\source\repos\ByteBank3\ByteBank - Herança, Override e Virtual e base\bin\Debug\ByteBank - Herança, Override e Virtual e base.exe
+C:\Users\LISCOMP02\source\repos\ByteBank3\ByteBank - Herança, Override e Virtual e base\bin\Debug\ByteBank - Herança, Override e Virtual e base.pdb
+C:\Users\LISCOMP02\source\repos\ByteBank3\ByteBank - Herança, Override e Virtual e base\obj\Debug\ByteBank - Herança, Override e Virtual e base.csproj.CoreCompileInputs.cache
+C:\Users\LISCOMP02\source\repos\ByteBank3\ByteBank - Herança, Override e Virtual e base\obj\Debug\ByteBank - Herança, Override e Virtual e base.exe
+C:\Users\LISCOMP02\source\repos\ByteBank3\ByteBank - Herança, Override e Virtual e base\obj\Debug\ByteBank - Herança, Override e Virtual e base.pdb
