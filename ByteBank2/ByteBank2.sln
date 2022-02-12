@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-Bytebank - Criando méto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-ByteBank - Referenciando classe dentro de outra", "04-ByteBank - Referenciando classe dentro de outra\04-ByteBank - Referenciando classe dentro de outra.csproj", "{F6CFAA44-7160-4C03-B085-8527E0BB134B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-ByteBank - Get e Set", "05-ByteBank - Get e Set\05-ByteBank - Get e Set.csproj", "{135DD31E-98AA-4038-9BDE-A89E2D7E9178}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-ByteBank - Construtores e Membros estáticos", "06-ByteBank - Construtores e Membros estáticos\06-ByteBank - Construtores e Membros estáticos.csproj", "{D4FF2EFE-0A90-4D3C-A869-F9297B864A7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{F6CFAA44-7160-4C03-B085-8527E0BB134B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6CFAA44-7160-4C03-B085-8527E0BB134B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6CFAA44-7160-4C03-B085-8527E0BB134B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135DD31E-98AA-4038-9BDE-A89E2D7E9178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135DD31E-98AA-4038-9BDE-A89E2D7E9178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135DD31E-98AA-4038-9BDE-A89E2D7E9178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135DD31E-98AA-4038-9BDE-A89E2D7E9178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4FF2EFE-0A90-4D3C-A869-F9297B864A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4FF2EFE-0A90-4D3C-A869-F9297B864A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4FF2EFE-0A90-4D3C-A869-F9297B864A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FF2EFE-0A90-4D3C-A869-F9297B864A7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

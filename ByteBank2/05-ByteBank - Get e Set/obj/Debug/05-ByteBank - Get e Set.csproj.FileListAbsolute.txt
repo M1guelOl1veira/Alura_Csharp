@@ -1,0 +1,7 @@
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\05-ByteBank - Get e Set\bin\Debug\05-ByteBank - Get e Set.exe.config
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\05-ByteBank - Get e Set\bin\Debug\05-ByteBank - Get e Set.exe
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\05-ByteBank - Get e Set\bin\Debug\05-ByteBank - Get e Set.pdb
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\05-ByteBank - Get e Set\obj\Debug\05-ByteBank - Get e Set.csproj.AssemblyReference.cache
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\05-ByteBank - Get e Set\obj\Debug\05-ByteBank - Get e Set.csproj.CoreCompileInputs.cache
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\05-ByteBank - Get e Set\obj\Debug\05-ByteBank - Get e Set.exe
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\05-ByteBank - Get e Set\obj\Debug\05-ByteBank - Get e Set.pdb

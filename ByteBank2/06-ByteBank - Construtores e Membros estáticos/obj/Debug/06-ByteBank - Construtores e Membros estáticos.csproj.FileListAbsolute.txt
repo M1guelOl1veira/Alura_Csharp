@@ -1,0 +1,6 @@
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\06-ByteBank - Construtores e Membros estáticos\bin\Debug\06-ByteBank - Construtores e Membros estáticos.exe.config
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\06-ByteBank - Construtores e Membros estáticos\bin\Debug\06-ByteBank - Construtores e Membros estáticos.exe
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\06-ByteBank - Construtores e Membros estáticos\bin\Debug\06-ByteBank - Construtores e Membros estáticos.pdb
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\06-ByteBank - Construtores e Membros estáticos\obj\Debug\06-ByteBank - Construtores e Membros estáticos.csproj.CoreCompileInputs.cache
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\06-ByteBank - Construtores e Membros estáticos\obj\Debug\06-ByteBank - Construtores e Membros estáticos.exe
+D:\Workspace\Formação C# e orientação a objetos\ByteBank2\06-ByteBank - Construtores e Membros estáticos\obj\Debug\06-ByteBank - Construtores e Membros estáticos.pdb
