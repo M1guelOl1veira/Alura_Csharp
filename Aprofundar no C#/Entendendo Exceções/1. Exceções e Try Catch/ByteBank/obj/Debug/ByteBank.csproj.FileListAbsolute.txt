@@ -1,0 +1,7 @@
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\1. Exceções e Try Catch\ByteBank\bin\Debug\ByteBank.exe.config
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\1. Exceções e Try Catch\ByteBank\bin\Debug\ByteBank.exe
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\1. Exceções e Try Catch\ByteBank\bin\Debug\ByteBank.pdb
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\1. Exceções e Try Catch\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\1. Exceções e Try Catch\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\1. Exceções e Try Catch\ByteBank\obj\Debug\ByteBank.exe
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\1. Exceções e Try Catch\ByteBank\obj\Debug\ByteBank.pdb

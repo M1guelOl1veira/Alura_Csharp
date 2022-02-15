@@ -1,7 +1,0 @@
-C:\Users\LISCOMP02\source\repos\ByteBank3\ByteBank - Atalho Referência e Sobrecargas\bin\Debug\ByteBank - Atalho Referência e Sobrecargas.exe.config
-C:\Users\LISCOMP02\source\repos\ByteBank3\ByteBank - Atalho Referência e Sobrecargas\bin\Debug\ByteBank - Atalho Referência e Sobrecargas.exe
-C:\Users\LISCOMP02\source\repos\ByteBank3\ByteBank - Atalho Referência e Sobrecargas\bin\Debug\ByteBank - Atalho Referência e Sobrecargas.pdb
-C:\Users\LISCOMP02\source\repos\ByteBank3\ByteBank - Atalho Referência e Sobrecargas\obj\Debug\ByteBank - Atalho Referência e Sobrecargas.csproj.AssemblyReference.cache
-C:\Users\LISCOMP02\source\repos\ByteBank3\ByteBank - Atalho Referência e Sobrecargas\obj\Debug\ByteBank - Atalho Referência e Sobrecargas.csproj.CoreCompileInputs.cache
-C:\Users\LISCOMP02\source\repos\ByteBank3\ByteBank - Atalho Referência e Sobrecargas\obj\Debug\ByteBank - Atalho Referência e Sobrecargas.exe
-C:\Users\LISCOMP02\source\repos\ByteBank3\ByteBank - Atalho Referência e Sobrecargas\obj\Debug\ByteBank - Atalho Referência e Sobrecargas.pdb

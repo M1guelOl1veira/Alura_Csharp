@@ -1,0 +1,7 @@
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\3. Readonly, Omissão do Setter, nameof() e ArgumentException\ByteBank\bin\Debug\ByteBank.exe.config
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\3. Readonly, Omissão do Setter, nameof() e ArgumentException\ByteBank\bin\Debug\ByteBank.exe
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\3. Readonly, Omissão do Setter, nameof() e ArgumentException\ByteBank\bin\Debug\ByteBank.pdb
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\3. Readonly, Omissão do Setter, nameof() e ArgumentException\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\3. Readonly, Omissão do Setter, nameof() e ArgumentException\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\3. Readonly, Omissão do Setter, nameof() e ArgumentException\ByteBank\obj\Debug\ByteBank.exe
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\3. Readonly, Omissão do Setter, nameof() e ArgumentException\ByteBank\obj\Debug\ByteBank.pdb

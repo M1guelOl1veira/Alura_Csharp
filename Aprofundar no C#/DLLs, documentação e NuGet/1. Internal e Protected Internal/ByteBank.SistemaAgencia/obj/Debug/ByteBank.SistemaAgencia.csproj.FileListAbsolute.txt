@@ -1,0 +1,10 @@
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\DLLs, documentação e NuGet\1. Internal e Protected Internal\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\DLLs, documentação e NuGet\1. Internal e Protected Internal\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\DLLs, documentação e NuGet\1. Internal e Protected Internal\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\DLLs, documentação e NuGet\1. Internal e Protected Internal\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\DLLs, documentação e NuGet\1. Internal e Protected Internal\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\DLLs, documentação e NuGet\1. Internal e Protected Internal\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.AssemblyReference.cache
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\DLLs, documentação e NuGet\1. Internal e Protected Internal\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\DLLs, documentação e NuGet\1. Internal e Protected Internal\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\DLLs, documentação e NuGet\1. Internal e Protected Internal\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+D:\Workspace\Formação C# e orientação a objetos\Aprofundar no C#\DLLs, documentação e NuGet\1. Internal e Protected Internal\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb
