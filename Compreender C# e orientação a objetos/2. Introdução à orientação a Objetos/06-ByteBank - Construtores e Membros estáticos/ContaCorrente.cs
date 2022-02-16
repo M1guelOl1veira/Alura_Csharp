@@ -12,6 +12,7 @@ namespace _06_ByteBank___Construtores_e_Membros_estáticos
         public Cliente Titular { get; set; }
         public int Numero { get; set; }
         public int Agencia { get; set; }
+        //Convenção de criação de propriedade privada.
         private double _saldo = 100;
         public double Saldo
         {

@@ -12,37 +12,26 @@ namespace ByteBank.SistemaAgencia
     {
         static void Main(string[] args)
         {
-            // pagina?argumentos
-            // 012345678
+            string url = "pagina?argumentos";
 
+            url.Substring(7);
 
-
-            string textoVazio = "";
-            string textoNulo = null;
-            string textoQualquer = "kjhfsdjhgsdfjksdf";
-
-
-            Console.WriteLine(String.IsNullOrEmpty(textoVazio));
-            Console.WriteLine(String.IsNullOrEmpty(textoNulo));
-            Console.WriteLine(String.IsNullOrEmpty(textoQualquer));
-            Console.ReadLine();
-
-
-
-
-
-
-            ExtratorValorDeArgumentosURL extrator = new ExtratorValorDeArgumentosURL("");
-
-            string url = "pagina?moedaOrigem=real&moedaDestino=dolar";
-
-            int indiceInterrogacao = url.IndexOf('?');
-
-            Console.WriteLine(indiceInterrogacao);
-
+            //No C# strings são imutáveis.
             Console.WriteLine(url);
-            string argumentos = url.Substring(indiceInterrogacao + 1);
-            Console.WriteLine(argumentos);
+
+
+            url += "sufixo";
+            //Isso é o que acontece quando concatenamos strings em C#.
+            string temporaria = url + "sufixo";
+            url = temporaria;
+
+            
+            //Substring retorna uma porção da string a parte do index escolhido, incluindo o index.
+            string teste = url.Substring(7);
+
+            Console.WriteLine(teste);
+
+            Console.ReadLine();
 
 
             Console.ReadLine();
