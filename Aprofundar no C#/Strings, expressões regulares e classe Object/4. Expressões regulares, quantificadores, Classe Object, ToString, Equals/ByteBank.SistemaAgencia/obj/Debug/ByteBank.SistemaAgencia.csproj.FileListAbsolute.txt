@@ -1,0 +1,22 @@
+C:\Users\LISCOMP02\Downloads\csharppt6-master\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+C:\Users\LISCOMP02\Downloads\csharppt6-master\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\LISCOMP02\Downloads\csharppt6-master\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\LISCOMP02\Downloads\csharppt6-master\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+C:\Users\LISCOMP02\Downloads\csharppt6-master\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\LISCOMP02\Downloads\csharppt6-master\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.xml
+C:\Users\LISCOMP02\Downloads\csharppt6-master\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.AssemblyReference.cache
+C:\Users\LISCOMP02\Downloads\csharppt6-master\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\Users\LISCOMP02\Downloads\csharppt6-master\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+C:\Users\LISCOMP02\Downloads\csharppt6-master\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\LISCOMP02\Downloads\csharppt6-master\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\LISCOMP02\Downloads\4. Expressões regulares, quantificadores, Classe Object, ToString, Equals\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+C:\Users\LISCOMP02\Downloads\4. Expressões regulares, quantificadores, Classe Object, ToString, Equals\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\LISCOMP02\Downloads\4. Expressões regulares, quantificadores, Classe Object, ToString, Equals\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\LISCOMP02\Downloads\4. Expressões regulares, quantificadores, Classe Object, ToString, Equals\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+C:\Users\LISCOMP02\Downloads\4. Expressões regulares, quantificadores, Classe Object, ToString, Equals\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\LISCOMP02\Downloads\4. Expressões regulares, quantificadores, Classe Object, ToString, Equals\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.xml
+C:\Users\LISCOMP02\Downloads\4. Expressões regulares, quantificadores, Classe Object, ToString, Equals\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.AssemblyReference.cache
+C:\Users\LISCOMP02\Downloads\4. Expressões regulares, quantificadores, Classe Object, ToString, Equals\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\Users\LISCOMP02\Downloads\4. Expressões regulares, quantificadores, Classe Object, ToString, Equals\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+C:\Users\LISCOMP02\Downloads\4. Expressões regulares, quantificadores, Classe Object, ToString, Equals\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\LISCOMP02\Downloads\4. Expressões regulares, quantificadores, Classe Object, ToString, Equals\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb
