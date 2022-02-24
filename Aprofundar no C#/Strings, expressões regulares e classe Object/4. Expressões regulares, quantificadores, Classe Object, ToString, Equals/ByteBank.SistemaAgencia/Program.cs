@@ -13,10 +13,10 @@ namespace ByteBank.SistemaAgencia
     {
         static void Main(string[] args)
         {
-            ContaCorrente conta = new ContaCorrente(342, 37652);
-            //Uma das sobrecargas do método WriteLine recebe argumento do tipo object e quando usamos um objeto como parâmetro é executado o método ToString.
-            Console.WriteLine(conta);
-
+            string str = "This website is for losers LOL!";
+            string semVogal = Regex.Replace(str, "[aeiou]", "", RegexOptions.IgnoreCase);
+            Console.WriteLine(semVogal);
+            Console.ReadLine();
             // TestandoString();
         }
 
